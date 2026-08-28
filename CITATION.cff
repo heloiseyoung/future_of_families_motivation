@@ -10,18 +10,20 @@ authors:
     given-names: "Heloise"
     orcid: "https://orcid.org/0000-0003-4835-5938"
     affiliation: "Université Paris-Saclay"
-url: "https://github.com/UTILISATEUR/DEPOT"
+
   - family-names: "JACQUET"
     given-names: "Pierre O."
     orcid: "https://orcid.org/0000-0002-6495-5581"
     affiliation: "Département des Yvelines, DGAS"
+
   - family-names: "FARKAS"
     given-names: "Bence Csaba"
     orcid: "https://orcid.org/0000-0003-1815-5054"
     affiliation: "ENS, Paris"
+
   - family-names: "MELL"
     given-names: "Hugo"
     orcid: "https://orcid.org/0000-0002-2346-1008"
     affiliation: "Département des Yvelines, DGAS"
 
-doi: "10.5281/zenodo.XXXXXXXX"
+url: "https://github.com/heloiseyoung/future_of_families_motivation"
